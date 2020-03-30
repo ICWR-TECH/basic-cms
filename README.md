@@ -8,7 +8,7 @@ Default username and password admin
 username: icwr
 password: icwr
 ```
-<br><br><br>
+<br><br>
 <img src="Screenshot from 2020-03-30 08-58-09.png" alt><br><br>
 <img src="Screenshot from 2020-03-30 08-58-12.png" alt><br><br>
 <img src="Screenshot from 2020-03-30 08-58-28.png" alt><br><br>
